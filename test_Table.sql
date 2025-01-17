@@ -1,1 +1,1 @@
-create table student(rollno number,student_name varchar2(60));
+create table student(rollno number,student_name varchar2(60),student_grade number);
